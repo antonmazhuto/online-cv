@@ -49,6 +49,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Full-Stack Engineer
+        time: Feb 2022 - Present
+        company: Cere Network
+        details: |
+          - The project: The NFT Marketplace provides a possibility to buy/sell NFTs for content owners, like artists, video-streamers, and musicians. The NFT Smart Contract based on the Polygon network. Technologies: NodeJS (NestJS), ReactJS with Redux (Typescript), React Native, MongoDB, PostgreSQL, Cassandra, Amazon Web Services, Kubernetes, Selenium, AngularJS, blockchain integration, ERC20, Web3JS, Stellar blockchain.
+          - The project: Decentralized Data Cloud which is supposed to be an infrastructure for the dApp, to make sure the data is stored in a secure, decentralized way. There are a set of integrations on top of this Data Cloud like a Video Platform solution, which provides a possibility for content owners to host their assets on DDC and sell them using simple NFT orders and auctions model. Technologies: NodeJS (NestJS), ReactJS, AWS, k8s, substrate blockchain, smart contracts, Go
       - role: Senior Frontend Engineer/ Front lead
         time: Sep 2021 - Present
         company: EsqUp, New York, United States of America
