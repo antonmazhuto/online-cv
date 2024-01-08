@@ -23,7 +23,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://antonmazhuto.github.io/online-cv/print/antonmazhuto-github-io-online-cv-.pdf
+    pdf: https://github.com/antonmazhuto/online-cv/blob/master/print/antonmazhuto.pdf
 
     languages:
       title: Languages
