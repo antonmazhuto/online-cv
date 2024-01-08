@@ -118,3 +118,5 @@ skills:
       - name: Websockets,
       - name: SaaS,
       - name: docker
+      - name: Kafka
+      - name: web3.0
