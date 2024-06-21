@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: mazhutoa@gmail.com
-    phone: +905344169839
-    timezone: Fethiye, Turkey
+    phone: +79774851454
+    timezone: Russia, Moscow
     linkedin: anton-mazhuto
     github: antonmazhuto
     telegram: mazhutoanton # add your nickname without '@' sign
@@ -53,8 +53,8 @@ experiences:
         time: Feb 2022 - Present
         company: Cere Network
         details: |
-          - The project: The NFT Marketplace provides a possibility to buy/sell NFTs for content owners, like artists, video-streamers, and musicians. The NFT Smart Contract based on the Polygon network. Technologies: NodeJS (NestJS), ReactJS with Redux (Typescript), React Native, MongoDB, PostgreSQL, Cassandra, Amazon Web Services, Kubernetes, Selenium, AngularJS, blockchain integration, ERC20, Web3JS, Stellar blockchain.
-          - The project: Decentralized Data Cloud which is supposed to be an infrastructure for the dApp, to make sure the data is stored in a secure, decentralized way. There are a set of integrations on top of this Data Cloud like a Video Platform solution, which provides a possibility for content owners to host their assets on DDC and sell them using simple NFT orders and auctions model. Technologies: NodeJS (NestJS), ReactJS, AWS, k8s, substrate blockchain, smart contracts, Go
+          - The project: The NFT Marketplace provides a possibility to buy/sell NFTs for content owners, like artists, video-streamers, and musicians. The NFT Smart Contract based on the Polygon network. Technologies: NodeJS (NestJS), ReactJS with Redux (Typescript), React Native, PostgreSQL, Amazon Web Services, Kubernetes, blockchain integration, ERC20, Web3JS.
+          - The project: Decentralized Data Cloud which is supposed to be an infrastructure for the dApp, to make sure the data is stored in a secure, decentralized way. There are a set of integrations on top of this Data Cloud like a Video Platform solution, which provides a possibility for content owners to host their assets on DDC and sell them using simple NFT orders and auctions model. Technologies: NodeJS (NestJS), ReactJS, AWS, k8s.
       - role: Senior Frontend Engineer/ Front lead
         time: Sep 2021 - Feb 2022
         company: EsqUp, New York, United States of America
@@ -120,3 +120,5 @@ skills:
       - name: docker
       - name: Kafka
       - name: web3.0
+      - name: ethers.js
+
