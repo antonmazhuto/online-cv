@@ -121,4 +121,5 @@ skills:
       - name: Kafka
       - name: web3.0
       - name: ethers.js
+      - name: Stripe
 
